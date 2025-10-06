@@ -22,6 +22,13 @@ SiamAttn是一个基于孪生网络架构的先进视觉目标跟踪算法，通
 输入帧 → 特征提取主干网络 → 双重注意力模块 → 多尺度特征融合 → 响应图生成 → 目标定位与精调
 ```
 
+### 整体架构
+- GOT-10k-FM [查看](./UAVSOT-Dataset-Sequences/UAVSOT-FM/GOT-10k-FM.txt) [下载](./UAVSOT-Dataset-Sequences/UAVSOT-FM/GOT-10k-FM.txt)
+- LaSOT-FM [查看](./UAVSOT-Dataset-Sequences/UAVSOT-FM/LaSOT-FM.txt) [下载](./UAVSOT-Dataset-Sequences/UAVSOT-FM/LaSOT-FM.txt)
+- TrackingNet-FM [查看](./UAVSOT-Dataset-Sequences/UAVSOT-FM/LaSOT-FM.txt) [下载](./UAVSOT-Dataset-Sequences/UAVSOT-FM/LaSOT-FM.txt) 
+- GOT-10k-TT [查看](./UAVSOT-Dataset-Sequences/UAVSOT-TT/GOT-10k-TT.txt) [下载](./UAVSOT-Dataset-Sequences/UAVSOT-TT/GOT-10k-TT.txt) 
+- LaSOT-TT [查看](./UAVSOT-Dataset-Sequences/UAVSOT-TT/LaSOT-TT.txt) [下载](./UAVSOT-Dataset-Sequences/UAVSOT-TT/LaSOT-TT.txt)
+- TrackingNet-TT [查看](./UAVSOT-Dataset-Sequences/UAVSOT-TT/TrackingNet-TT.txt) [下载](./UAVSOT-Dataset-Sequences/UAVSOT-TT/TrackingNet-TT.txt)
 ### 详细工作流程
 
 1. **特征提取阶段**
